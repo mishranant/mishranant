@@ -1,6 +1,6 @@
 ## Namaskara 🙏 I am Anant from Bengaluru, Bharat 🇮🇳
 
-- 🔭 I’m currently working on [a Rails project](https://github.com/mishranant/askmybook-ruby) that helps you query on a book PDF using OpenAI.
+- 🔭 I’m currently working as Founding Team @ Stealth Startup in Bengaluru.
 - 👯 I’m looking to collaborate on open-source projects related to Web Dev, DevOps, Fintech, and ML.
 - 🤔 I’m looking for help with expanding my knowledge in Distributed Systems and Cloud Architecture.
 - 💬 Ask me about Go, Docker, Python, OpenAI, SQL, Crypto, and anything related to backend.
