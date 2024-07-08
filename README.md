@@ -10,8 +10,9 @@
 - Bachelor of Technology in Computer Science and Engineering (GPA 8.1/10, IIT Mandi)
 
 ### Professional Experience
-- Founding Engineer at Hillside Labs, Remote, USA (Nov 2023 – Mar 2024)
-- Senior SDE at Razorpay, Bengaluru, India (Sep 2020 – Oct 2023)
+- Senior Engineer (Founding Team) at **Manifest IT** (Sequoia-backed), Bengaluru (May 2024 - Now)
+- Founding Engineer at **Hillside Labs**, Remote, USA (Nov 2023 – Mar 2024)
+- Senior SDE at **Razorpay**, Bengaluru, India (Sep 2020 – Oct 2023)
 
 ### Leadership and Recognition
 - Founding Engineer, Hillside Labs
